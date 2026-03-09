@@ -1,0 +1,19 @@
+Lesson 1: My First Step with NumPy
+
+This is where it all started. As a beginner in AI, NumPy felt a bit scary at first, but I didn't give up. I spent time understanding how arrays work because I know they are the heart of AI.
+
+ What I Learned as a Student:
+- Array Power: How to create and reshape data.
+- Data Slicing: Extracting exactly what I need from a big dataset.
+- Real Logic: I solved a 7-task Mini Project analyzing student scores!
+
+🎓 My Mini Project:
+I analyzed a class of 8 students across 3 subjects. I found out who passed, who failed, and what the averages were. It was my first "Real Data" experience!
+
+ Files in this Folder:
+- exercises.ipynb: My daily practice and learning of new concepts.
+- mini_project.ipynb: My first structured data analysis small project .
+
+Still learning, still growing. Keep me in your prayers! 
+
+Thanks for the reading...!!
